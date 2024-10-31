@@ -1,0 +1,8 @@
+# OSX
+.DS_Store
+
+# VSCode
+.vscode/
+
+# LabSoundLib
+artifacts/
